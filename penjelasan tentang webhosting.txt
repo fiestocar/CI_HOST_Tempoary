@@ -1,0 +1,18 @@
+untuk panel admin web https://www.000webhost.com/
+
+https://www.000webhost.com/ 
+email wisnukristanto123@gmail.com
+password : bismillah123
+
+https://files.000webhost.com/
+username : fiesto-car
+password : bismillah321
+
+database 
+Nama DB : id8228654_rental
+DB USER : id8228654_rental
+DB HOST : localhost
+password: Admin
+
+
+yang di ubah config.php dan database.php
